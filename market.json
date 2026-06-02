@@ -2805,7 +2805,7 @@
       "title": "ChmlFrp-frpc",
       "language": "zh_cn",
       "platform": "Linux",
-      "description": "请前往passnat官网获取配置文件编辑到frpc.ini",
+      "description": "请前往ChmlFrp官网获取配置文件编辑到frpc.ini",
       "image": "https://panel.chmlfrp.net/favicon.ico",
     
       "gameType": "frp",
