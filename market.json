@@ -2856,6 +2856,34 @@
        "processType": "general",
        "updateCommand": ""
      }
+    },
+    {
+      "title": "StarryFrp",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "请前往StarryFrp官网获取访问密钥及隧道id启动",
+      "image": "https://frp.starryfrp.com/console/assets/download/launcher.png",
+    
+      "gameType": "frp",
+      "category": "StarryFrp",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/StarryFrp/Linux/StarryFrp_frpc_linux_amd64.zip",
+      "author": "语千",
+      "tags": ["StarryFrp"],
+    
+     "setupInfo": {
+       "startCommand": "./frpc -f <您的访问密钥>:<隧道ID>",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
     }
   ]
 }
