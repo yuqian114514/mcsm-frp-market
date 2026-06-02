@@ -2716,6 +2716,62 @@
         "ie": "utf-8",
         "oe": "utf-8"
       }
+    },
+    {
+      "title": "LoliaFRP-CLI",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "请前往LoliaFRP官网获取启动命令启动",
+      "image": "https://download.nswrz.cn/tp/LoliaFRP.png",
+    
+      "gameType": "frp",
+      "category": "Lolia_CLI",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/LoliaFRP-CLI/Linux/frp_LoliaFRP-CLI 0.67.4_linux_386.zip",
+      "author": "语千",
+      "tags": ["LoliaFRP"],
+    
+     "setupInfo": {
+       "startCommand": "请前往LoliaFRP官网获取启动命令启动",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
+      "title": "OpenFRP-Frpc",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "openfrp-Frpc启动器",
+      "image": "https://console.openfrp.net/static/ico/favicon-D8vC0yBi.ico",
+    
+      "gameType": "frp",
+      "category": "OpenFRP_Frpc",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/openfrp/Linux/frpc_openfrp_linux_amd64.zip",
+      "author": "语千",
+      "tags": ["OpenFRP-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "./frpc_linux_amd64",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
     }
   ]
 }
