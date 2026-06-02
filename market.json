@@ -2778,7 +2778,7 @@
       "language": "zh_cn",
       "platform": "Linux",
       "description": "请前往passnat官网获取配置文件编辑到frpc.toml",
-      "image": "https://console.openfrp.net/static/ico/favicon-D8vC0yBi.ico",
+      "image": "https://doc.passnat.com/img/logo.svg",
     
       "gameType": "frp",
       "category": "passnat_Frpc",
