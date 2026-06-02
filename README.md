@@ -1,25 +1,26 @@
-<img src="https://public-link.oss-cn-shenzhen.aliyuncs.com/mcsm_picture/logo.png" alt="MCSManager.png" width="500px" />
-
 <br />
 
-[Official Website](http://mcsmanager.com/)
+# Welcome to the mcsm-frp-market !
+欢迎来到 mcsm-frp-market !
 
 <br />
 
 ## What is this?
 这是什么？
 
-This is a commonly used penetration template for Mainland China, added to the template market for MCSManager.
+### This is a commonly used penetration template for Mainland China, added to the template market for MCSManager.
 
 这里是针对 MCSManager 的模板市场添加的中国大陆常用的穿透模板
 
-Mainly for the 832 platform Linux
-
-主要为832平台的Linux
-
-Welcome all major FRP manufacturers to add
+### Welcome all major FRP manufacturers to add
 
 欢迎各大frp厂商进行添加
+
+
+[安装mcsm-frp-market教程](https://github.com/yuqian114514/mcsm-frp-market/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%C2%B7-Installation-Tutorial)
+
+
+[Installation guide for mcsm-frp-market](https://github.com/yuqian114514/mcsm-frp-market/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%C2%B7-Installation-Tutorial)
 
 
 ## Currently compatible with the following manufacturers
