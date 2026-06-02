@@ -17,7 +17,7 @@
 欢迎各大frp厂商进行添加
 
 
-[安装mcsm-frp-market教程](https://gitee.com/yuqian114514/mcsm-frp-market/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%C2%B7-Installation-Tutorial)
+[安装mcsm-frp-market教程](https://gitee.com/yuqian114514/mcsm-frp-market/wikis/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%20%C2%B7%20Installation%20Tutorial)
 
 
 [Installation guide for mcsm-frp-market](https://github.com/yuqian114514/mcsm-frp-market/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%C2%B7-Installation-Tutorial)
