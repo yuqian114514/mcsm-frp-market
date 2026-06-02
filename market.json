@@ -2861,7 +2861,7 @@
       "title": "StarryFrp",
       "language": "zh_cn",
       "platform": "Linux",
-      "description": "请前往StarryFrp官网获取访问密钥及隧道id启动",
+      "description": "请前往StarryFrp官网获取访问密钥及隧道id填写启动命令启动",
       "image": "https://frp.starryfrp.com/console/assets/download/launcher.png",
     
       "gameType": "frp",
@@ -2875,6 +2875,34 @@
     
      "setupInfo": {
        "startCommand": "./frpc -f <您的访问密钥>:<隧道ID>",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
+      "title": "HP PRO",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "请前往HP PRO官网获取设备Id填写启动命令启动",
+      "image": "https://hpproxy.cn/logo.png",
+    
+      "gameType": "frp",
+      "category": "hp_pro",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/hppro/Linux/hp-pro-amd64.zip",
+      "author": "语千",
+      "tags": ["hp_pro"],
+    
+     "setupInfo": {
+       "startCommand": "./hp-client -deviceId=设备ID",
        "stopCommand": "^c",
        "ie": "UTF-8",
        "oe": "UTF-8",
