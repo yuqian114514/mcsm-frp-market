@@ -12,10 +12,6 @@
 
 这里是针对 MCSManager 的模板市场添加的中国大陆常用的穿透模板
 
-### Mainly for the 832 and amd64 platform Linux
-
-主要为832和amd64平台的Linux
-
 ### Welcome all major FRP manufacturers to add
 
 欢迎各大frp厂商进行添加
