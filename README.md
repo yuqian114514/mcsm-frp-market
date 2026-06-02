@@ -7,9 +7,13 @@
 <br />
 
 ## What is this?
+这是什么？
 
-The files here are all platform-wide install, delete, update scripts, etc. for MCSManager.
+This is a commonly used penetration template for Mainland China, added to the template market for MCSManager.
+这里是针对 MCSManager 的模板市场添加的中国大陆常用的穿透模板
 
-The default installation script on the official website is the `setup.sh` file of Github repository, it contains multiple languages.
+Mainly for the 832 platform Linux
+主要为832平台的Linux
 
-You can also use the following one-click command to perform a quick installation
+Welcome all major FRP manufacturers to add
+欢迎各大frp厂商进行添加
