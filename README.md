@@ -17,3 +17,12 @@ Mainly for the 832 platform Linux
 
 Welcome all major FRP manufacturers to add
 欢迎各大frp厂商进行添加
+
+
+## Currently compatible with the following manufacturers
+目前兼容以下厂商
+
+[openfrp](https://openfrp.net/)
+
+
+[Lolia FRP](https://lolia.link/)
