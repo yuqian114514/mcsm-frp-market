@@ -2912,6 +2912,34 @@
        "processType": "general",
        "updateCommand": ""
      }
+    },
+    {
+      "title": "mc5173-frpc",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "请前往mc5173官网获取配置文件编辑到frpc.toml",
+      "image": "https://frp.mc5173.cn/favicon.ico",
+    
+      "gameType": "frp",
+      "category": "mc5173_Frpc",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/mc5173/Linux/mc5173_frp_0.65.0_linux_amd64.zip",
+      "author": "语千",
+      "tags": ["mc5173-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "./frpc -c frpc.toml",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
     }
   ]
 }
