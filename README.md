@@ -51,3 +51,13 @@
 
 
 ### 如有侵权请联系QQ：3273053884
+
+
+# All repository links of this repository
+## 该仓库所有的仓库链接
+
+[GitHub](https://github.com/yuqian114514/mcsm-frp-market)
+
+[gitee](https://gitee.com/yuqian114514/mcsm-frp-market)
+
+[gitea](https://gitea.com/yuqian114514/mcsm-frp-market)
