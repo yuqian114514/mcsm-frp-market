@@ -11,8 +11,11 @@
 打开你的浏览器，访问下方链接下载 `market.json` 文件：  
 Open your browser and visit the link below to download the `market.json` file:
 
-🔗 **[点我下载 market.json](https://gitee.com/yuqian114514/mcsm-frp-market/releases/latest)**
-🔗 **[Click to download market.json](https://github.com/yuqian114514/mcsm-frp-market/releases/latest)**
+🔗 **[点我去github下载 market.json / Click me to go to Gitee to download market.json](https://github.com/yuqian114514/mcsm-frp-market/releases/latest)**
+
+🔗 **[点我去gitee下载 market.json / Click me to go to Gitee to download market.json](https://gitee.com/yuqian114514/mcsm-frp-market/releases/latest)**
+
+🔗 **[点我去gitea下载 market.json / Click me to go to Gitee to download market.json](https://gitea.com/yuqian114514/mcsm-frp-market/releases/latest)**
 
 > 👆 在最新 Release 页面里找到 `market.json`，点击下载就好啦，记得保存到找得到的地方喵~  
 > 👆 Find `market.json` on the latest Release page, click to download it, and remember to save it somewhere you can find it later nya~
@@ -70,5 +73,5 @@ Click **"Operations"** → Select **"Clear Current Templates"** → Click **"Con
 导入成功后，你的应用市场就已经更新为最新模板啦～现在可以去愉快地使用 FRP 模板了喵！💖  
 Once imported successfully, your app market is updated with the latest templates～ Now you can happily use the FRP templates nya! 💖
 
-> 💡 **小提示**：如果遇到导入失败，请检查 `market.json` 文件是否完整下载，或者尝试重新下载一次喵~  
-> 💡 **Tip**: If the import fails, check whether the `market.json` file was downloaded completely, or try downloading it again nya~
+> 💡 **小提示**：如果遇到启动失败，请检查文件权限是否为777，或者尝试重新下载一次喵~  
+> 💡 **Tip**: If you encounter a startup failure, please check whether the file permissions are 777, or try downloading it again meow~

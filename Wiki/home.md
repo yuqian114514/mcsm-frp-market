@@ -50,6 +50,9 @@
 [mc5173](https://frp.mc5173.cn/)
 
 
+[LoCyan](https://www.locyanfrp.cn)
+
+
 ### 如有侵权请联系QQ：3273053884
 
 

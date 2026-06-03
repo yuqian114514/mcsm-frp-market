@@ -2940,6 +2940,34 @@
        "processType": "general",
        "updateCommand": ""
      }
+    },
+    {
+      "title": "LoCyan-Frp",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "请前往LoCyan Frp官网获取用户token和隧道id填写启动命令启动",
+      "image": "https://www.locyanfrp.cn/favicon.ico",
+    
+      "gameType": "frp",
+      "category": "LoCyan",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/locyanfrp/Linux/frp_LoCyanFrp-0.62.1b4_linux_amd64.zip",
+      "author": "语千",
+      "tags": ["LoCyan_Frp"],
+    
+     "setupInfo": {
+       "startCommand": "./frpc -u <用户token> -t <隧道Id>",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
     }
   ]
 }
