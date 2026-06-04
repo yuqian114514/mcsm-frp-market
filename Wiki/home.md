@@ -23,7 +23,6 @@
 [Installation guide for mcsm-frp-market](https://github.com/yuqian114514/mcsm-frp-market/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%C2%B7-Installation-Tutorial)
 
 
-[Installation guide for mcsm-frp-market](https://gofrp.org/zh-cn/)
 ### Currently supports the original version of gofrp frp
 
 目前已支持gofrp原版frp
@@ -31,35 +30,6 @@
 If you encounter any problems, please [click here](https://gofrp.org/zh-cn/) to go to the official gofrp wiki
 
 如遇到问题请点[这里](https://gofrp.org/zh-cn/)前往gofrp官方wiki
-
-## Currently compatible with the following manufacturers
-目前兼容以下厂商
-
-[openfrp](https://www.openfrp.net/)
-
-
-[Lolia FRP](https://www.lolia.link/)
-
-
-[passnat](https://www.passnat.com/)
-
-
-[Chml Frp](https://www.chmlfrp.net/)
-
-
-[me frp](https://www.mefrp.com/)
-
-
-[Starry Frp](https://WWW.frp.starryfrp.com)
-
-
-[HP PRO](https://WWW.hpproxy.cn/)
-
-
-[mc5173](https://frp.mc5173.cn/)
-
-
-[LoCyan](https://www.locyanfrp.cn)
 
 
 ### 如有侵权请联系QQ：3273053884
