@@ -23,36 +23,6 @@
 [Installation guide for mcsm-frp-market](https://github.com/yuqian114514/mcsm-frp-market/wiki/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%C2%B7-Installation-Tutorial)
 
 
-## Currently compatible with the following manufacturers
-目前兼容以下厂商
-
-[openfrp](https://openfrp.net/)
-
-
-[Lolia FRP](https://lolia.link/)
-
-
-[passnat](https://passnat.com/)
-
-
-[Chml Frp](https://chmlfrp.net/)
-
-
-[me frp](https://mefrp.com/)
-
-
-[Starry Frp](https://frp.starryfrp.com)
-
-
-[HP PRO](https://hpproxy.cn/)
-
-
-[mc5173](https://frp.mc5173.cn/)
-
-
-[LoCyan](https://www.locyanfrp.cn)
-
-
 ### 如有侵权请联系QQ：3273053884
 
 

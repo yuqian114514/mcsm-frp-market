@@ -2968,6 +2968,34 @@
        "processType": "general",
        "updateCommand": ""
      }
+    },
+    {
+      "title": "go-frp_v0.69.1",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "gofrp 镜像 默认启动方式为配置文件frpc.toml",
+      "image": "https://download.nswrz.cn/tp/go_frp.png",
+    
+      "gameType": "frp",
+      "category": "gofrp",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/gofrp/Linux/v0.69.1/gofrp.zip",
+      "author": "语千",
+      "tags": ["gofrp"],
+    
+     "setupInfo": {
+       "startCommand": "./frpc -c frpc.toml",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
     }
   ]
 }
