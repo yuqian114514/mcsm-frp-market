@@ -47,7 +47,7 @@ If you encounter any problems, please [click here](https://gofrp.org/zh-cn/) to 
 [Chml Frp](https://chmlfrp.net/)
 
 
-[me frp](https://mefrp.com/)
+[ME-Frp](https://mefrp.com/)
 
 
 [Starry Frp](https://frp.starryfrp.com)

@@ -2830,10 +2830,10 @@
      }
     },
     {
-      "title": "mefrpc",
+      "title": "ME-Frp",
       "language": "zh_cn",
       "platform": "Linux",
-      "description": "请前往mefrp官网获取启动命令启动",
+      "description": "请前往ME-Frp官网获取启动命令启动",
       "image": "https://www.mefrp.com/favicon.svg",
     
       "gameType": "frp",
@@ -2843,10 +2843,10 @@
       "size": "30MB",
       "targetLink": "https://download.nswrz.cn/frp/mefrp/Linux/mefrpc_linux_amd64_0.67.0_20260302_f1907e56.zip",
       "author": "语千",
-      "tags": ["mefrp"],
+      "tags": ["ME-Frp"],
     
      "setupInfo": {
-       "startCommand": "请前往mefrp官网获取启动命令启动",
+       "startCommand": "请前往ME-Frp官网获取启动命令启动",
        "stopCommand": "^c",
        "ie": "UTF-8",
        "oe": "UTF-8",
