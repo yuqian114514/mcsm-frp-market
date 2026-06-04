@@ -2970,6 +2970,34 @@
      }
     },
     {
+      "title": "nrtun-frpc",
+      "language": "zh_cn",
+      "platform": "Linux",
+      "description": "请前往nrtun官网获取配置文件编辑到config.toml",
+      "image": "https://i.uz0.xyz/nrtun/logo.png",
+    
+      "gameType": "frp",
+      "category": "nrtun_Frpc",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/nrtun/Linux/nrtun_cli_linux_amd64.zip",
+      "author": "语千",
+      "tags": ["nrtun-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "./nrtun_cli_linux_amd64 -config config.toml",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
       "title": "go-frp_v0.69.1",
       "language": "zh_cn",
       "platform": "Linux",
