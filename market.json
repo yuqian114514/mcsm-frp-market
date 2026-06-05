@@ -2774,6 +2774,34 @@
      }
     },
     {
+      "title": "OpenFRP-Frpc-Windows",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往OpenFRP官网获取用户密钥及隧道id填写启动命令启动",
+      "image": "https://console.openfrp.net/static/ico/favicon-D8vC0yBi.ico",
+    
+      "gameType": "frp",
+      "category": "OpenFRP_Frpc",
+      "runtime": "x64 系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://staticassets.naids.com/client/OF_0.68.0_37f78258_260326/frpc_windows_amd64.zip",
+      "author": "语千",
+      "tags": ["OpenFRP-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "frpc_windows_amd64.exe -u <用户密钥> -p <隧道id>",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
       "title": "passnat-frpc",
       "language": "zh_cn",
       "platform": "Linux",
