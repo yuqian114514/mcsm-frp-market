@@ -2746,7 +2746,7 @@
      }
     },
     {
-      "title": "LoliaFRP-CLI-Windows",
+      "title": "LoliaFRP-CLI",
       "language": "zh_cn",
       "platform": "Windows",
       "description": "请前往LoliaFRP官网获取启动命令启动",
@@ -2802,7 +2802,7 @@
      }
     },
     {
-      "title": "OpenFRP-Frpc-Windows",
+      "title": "OpenFRP-Frpc",
       "language": "zh_cn",
       "platform": "Windows",
       "description": "请前往OpenFRP官网获取用户密钥及隧道id填写启动命令启动",
