@@ -11,11 +11,11 @@
 打开你的浏览器，访问下方链接下载 `market.json` 文件：  
 Open your browser and visit the link below to download the `market.json` file:
 
-🔗 **[点我去github下载 market.json / Click me to go to Gitee to download market.json](https://github.com/yuqian114514/mcsm-frp-market/releases/latest)**
+🔗 **[点我去github下载 market.json / Click me to go to Github to download market.json](https://github.com/yuqian114514/mcsm-frp-market/releases/latest)**
 
 🔗 **[点我去gitee下载 market.json / Click me to go to Gitee to download market.json](https://gitee.com/yuqian114514/mcsm-frp-market/releases/latest)**
 
-🔗 **[点我去gitea下载 market.json / Click me to go to Gitee to download market.json](https://gitea.com/yuqian114514/mcsm-frp-market/releases/latest)**
+🔗 **[点我去gitea下载 market.json / Click me to go to Gitea to download market.json](https://gitea.com/yuqian114514/mcsm-frp-market/releases/latest)**
 
 > 👆 在最新 Release 页面里找到 `market.json`，点击下载就好啦，记得保存到找得到的地方喵~  
 > 👆 Find `market.json` on the latest Release page, click to download it, and remember to save it somewhere you can find it later nya~
