@@ -2858,6 +2858,34 @@
      }
     },
     {
+      "title": "passnat-frpc",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往passnat官网获取配置文件编辑到frpc.toml",
+      "image": "https://doc.passnat.com/img/logo.svg",
+    
+      "gameType": "frp",
+      "category": "passnat_Frpc",
+      "runtime": "64位",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/passnat/Windows/frpc_0.58.1_windows_amd64.zip",
+      "author": "语千",
+      "tags": ["passnat-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "frpc_0.58.1_windows_amd64.exe -c frpc.toml",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
       "title": "ChmlFrp-frpc",
       "language": "zh_cn",
       "platform": "Linux",
@@ -2886,6 +2914,34 @@
      }
     },
     {
+      "title": "ChmlFrp-frpc",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往ChmlFrp官网获取配置文件编辑到frpc.ini",
+      "image": "https://panel.chmlfrp.net/favicon.ico",
+    
+      "gameType": "frp",
+      "category": "ChmlFrp_Frpc",
+      "runtime": "64位",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://cf-v1.uapis.cn/download/ChmlFrp-0.51.2_251023_2_windows_amd64.zip",
+      "author": "语千",
+      "tags": ["ChmlFrp-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "frpc.exe -c frpc.ini",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
       "title": "ME-Frp",
       "language": "zh_cn",
       "platform": "Linux",
@@ -2903,6 +2959,62 @@
     
      "setupInfo": {
        "startCommand": "请前往ME-Frp官网获取启动命令启动",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
+      "title": "ME-Frp",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往ME-Frp官网获取启动命令启动",
+      "image": "https://www.mefrp.com/favicon.svg",
+    
+      "gameType": "frp",
+      "category": "mefrpc",
+      "runtime": "64位",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://drive.mcsl.com.cn/d/ME-Frp/Local/MEFrp-Core/0.67.0_20260302_f1907e56/mefrpc_windows_amd64_0.67.0_20260302_f1907e56.zip",
+      "author": "语千",
+      "tags": ["ME-Frp"],
+    
+     "setupInfo": {
+       "startCommand": "请前往ME-Frp官网获取启动命令启动",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
+      "title": "StarryFrp",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往StarryFrp官网获取访问密钥及隧道id填写启动命令启动",
+      "image": "https://frp.starryfrp.com/console/assets/download/launcher.png",
+    
+      "gameType": "frp",
+      "category": "StarryFrp",
+      "runtime": "64位",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/StarryFrp/Windows/starryfrp_frpc.zip",
+      "author": "语千",
+      "tags": ["StarryFrp"],
+    
+     "setupInfo": {
+       "startCommand": "frpc.exe -f <您的访问密钥>:<隧道ID>",
        "stopCommand": "^c",
        "ie": "UTF-8",
        "oe": "UTF-8",
@@ -2970,6 +3082,34 @@
      }
     },
     {
+      "title": "HP PRO",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往HP PRO官网获取设备Id填写启动命令启动",
+      "image": "https://hpproxy.cn/logo.png",
+    
+      "gameType": "frp",
+      "category": "hp_pro",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/hppro/Windows/hp-pro.zip",
+      "author": "语千",
+      "tags": ["hp_pro"],
+    
+     "setupInfo": {
+       "startCommand": "hp-pro.exe -deviceId=设备ID",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
       "title": "mc5173-frpc",
       "language": "zh_cn",
       "platform": "Linux",
@@ -2987,6 +3127,34 @@
     
      "setupInfo": {
        "startCommand": "./frpc -c frpc.toml",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
+      "title": "mc5173-frpc",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往mc5173官网获取配置文件编辑到frpc.toml",
+      "image": "https://frp.mc5173.cn/favicon.ico",
+    
+      "gameType": "frp",
+      "category": "mc5173_Frpc",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://Download.nswrz.cn/frp/mc5173/Windows/mc5173_windows_amd64.zip ",
+      "author": "语千",
+      "tags": ["mc5173-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "frpc.exe -c frpc.toml",
        "stopCommand": "^c",
        "ie": "UTF-8",
        "oe": "UTF-8",
@@ -3043,6 +3211,34 @@
     
      "setupInfo": {
        "startCommand": "./nrtun_cli_linux_amd64 -config config.toml",
+       "stopCommand": "^c",
+       "ie": "UTF-8",
+       "oe": "UTF-8",
+       "type": "universal",
+       "tag": [],
+       "fileCode": "UTF-8",
+       "processType": "general",
+       "updateCommand": ""
+     }
+    },
+    {
+      "title": "nrtun-frpc",
+      "language": "zh_cn",
+      "platform": "Windows",
+      "description": "请前往nrtun官网获取配置文件编辑到config.toml",
+      "image": "https://i.uz0.xyz/nrtun/logo.png",
+    
+      "gameType": "frp",
+      "category": "nrtun_Frpc",
+      "runtime": "所有linux系系统",
+      "hardware": "无",
+      "size": "30MB",
+      "targetLink": "https://download.nswrz.cn/frp/nrtun/Windows/nrtun_cli_Windows_amd64.zip",
+      "author": "语千",
+      "tags": ["nrtun-Frpc"],
+    
+     "setupInfo": {
+       "startCommand": "nrtun_cli_windows_amd64.exe4 -config config.toml",
        "stopCommand": "^c",
        "ie": "UTF-8",
        "oe": "UTF-8",
