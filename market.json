@@ -1923,7 +1923,7 @@
       "tags": ["LoliaFRP"],
     
      "setupInfo": {
-       "startCommand": "./start.sh",
+       "startCommand": "bash start.sh",
        "stopCommand": "^c",
        "ie": "UTF-8",
        "oe": "UTF-8",
