@@ -16,6 +16,29 @@
 
 欢迎各大frp厂商进行添加
 
+## 项目提示
+
+### 此项目正在开发自研命令行启动器
+
+This project is developing its own command-line launcher
+
+### 我们会停止模板编写
+
+We'll stop writing templates
+
+### 当前进度仅支持厂家 ‘lolia FRP’
+
+The current progress only supports the manufacturer 'lolia FRP'
+
+### 如需使用 可前往厂家文档进行查看
+
+If you need to use it, you can check the manufacturer's documentation
+
+[命令行启动器GitHub链接](https://github.com/yuqian114514/mcsm-frp-market-sh_bat)
+
+[GitHub link for command-line launcher](https://github.com/yuqian114514/mcsm-frp-market-sh_bat)
+
+## 教程
 
 [安装mcsm-frp-market教程](https://gitee.com/yuqian114514/mcsm-frp-market/wikis/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%20%C2%B7%20Installation%20Tutorial)
 
