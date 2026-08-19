@@ -22,11 +22,11 @@
 
 This project is developing its own command-line launcher
 
-### 我们会停止模板编写
+### 我们会暂停模板编写
 
 We'll stop writing templates
 
-### 当前进度仅支持厂家 ‘lolia FRP’
+### 当前进度仅支持厂家 ‘lolia FRP，ChmlFrp’
 
 The current progress only supports the manufacturer 'lolia FRP'
 
